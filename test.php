@@ -1,6 +1,6 @@
 <?php
 require 'api/src/facebook.php';
-
+echo 'test';
 // Create our Application instance (replace this with your appId and secret).
 $facebook = new Facebook(array(
   'appId'  => '432757580141005',
